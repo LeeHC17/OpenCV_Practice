@@ -1,0 +1,2 @@
+D:\현장 실습\4주차\OpenCV_Practice\Mat_class\x64\Debug\Mat_class.exe
+D:\현장 실습\4주차\OpenCV_Practice\Mat_class\x64\Debug\Mat_class.pdb
