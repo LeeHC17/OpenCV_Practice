@@ -1,0 +1,2 @@
+D:\현장 실습\4주차\OpenCV_Practice\EdgeDetecting\x64\Debug\EdgeDetecting.exe
+D:\현장 실습\4주차\OpenCV_Practice\EdgeDetecting\x64\Debug\EdgeDetecting.pdb
