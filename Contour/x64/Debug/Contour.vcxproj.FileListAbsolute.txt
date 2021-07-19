@@ -1,0 +1,2 @@
+D:\현장 실습\5주차\OpenCV_Practice\Contour\x64\Debug\Contour.exe
+D:\현장 실습\5주차\OpenCV_Practice\Contour\x64\Debug\Contour.pdb
