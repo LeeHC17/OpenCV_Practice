@@ -1,0 +1,2 @@
+D:\현장 실습\5주차\OpenCV_Practice\PeopleDetector\x64\Debug\PeopleDetector.exe
+D:\현장 실습\5주차\OpenCV_Practice\PeopleDetector\x64\Debug\PeopleDetector.pdb
