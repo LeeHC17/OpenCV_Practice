@@ -19,11 +19,11 @@
 
 ![5](https://user-images.githubusercontent.com/76603802/126608162-3f432f60-70b0-4574-8166-4c3492644c0f.jpg)
 
-그 다음 haarcascade를 이용하여 보행자를 검출하기 위해 위와 같이 "People Detection" 체크박스가 체크된 상태에서 "Haar" 라디오 버튼을 누른다.
+그 다음 haarcascade를 이용하여 보행자를 검출하기 위해 위와 같이 "People Detection" 체크박스가 체크된 상태에서 "Haarcascade" 라디오 버튼을 누른다.
 
 ![6](https://user-images.githubusercontent.com/76603802/126608176-ace0da61-3974-4feb-b0f8-643bf94cea09.jpg)
 
-"People Detection" 체크박스를 체크하고 "Haar" 라디오 버튼을 체크한 뒤 "Play" 버튼을 누르면 위와 같이 vtest.avi 파일에 나오는 보행자들을 초록색 사각형으로 표시해준다.
+"People Detection" 체크박스를 체크하고 "Haarcascade" 라디오 버튼을 체크한 뒤 "Play" 버튼을 누르면 위와 같이 vtest.avi 파일에 나오는 보행자들을 초록색 사각형으로 표시해준다.
 
 ![1](https://user-images.githubusercontent.com/76603802/126608028-affb07c3-2f9f-4355-be7e-df6ba43df364.jpg)
 
